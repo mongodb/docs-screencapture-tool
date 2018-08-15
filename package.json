@@ -17,7 +17,7 @@
     "nightmare-screenshot-selector": "^1.0.2",
     "properties-reader": "^0.0.16",
     "readline-sync": "1.4.9",
-    "resemblejs": "2.10.0",
+    "resemblejs": "2.10.3",
     "sharp": "0.20.1"
   },
   "engines": {
